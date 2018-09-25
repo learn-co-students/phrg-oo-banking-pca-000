@@ -14,4 +14,8 @@ Transfers start out in a "pending" status. They can be executed and go to a "com
 
 Pass the tests. They are deliberatively vague; your design is up to you! Read the test output and test files very carefully to get through this one. 
 
+## Does this need an update?
+
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-oo-banking/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-oo-banking/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 <p data-visibility='hidden'>PHRG Object Oriented Banking</p>
